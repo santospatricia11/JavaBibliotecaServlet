@@ -9,5 +9,4 @@ Servlet e JSP: Controle e apresentação.
 Maven: Gerenciamento de dependências e build do projeto.
 PostgreSQL: Banco de dados relacional.
 HTML e CSS: Interface do usuário.
-Tailwind CSS: Framework de CSS utilitário.
 Tomcat: Servidor de aplicação.
